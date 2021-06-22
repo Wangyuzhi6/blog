@@ -1,0 +1,37 @@
+.detail-panel{
+    min-height: 600px;
+}
+.detail-panel .panel-title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.detail-panel  .sub-title span{
+    margin-right: 10px;
+}
+.detail-panel  .sub-title .view-num{
+    margin-right: 0;
+    font-style: italic;
+}
+.detail-panel .panel-body{
+    background-color: transparent;
+    overflow: hidden;    
+}
+#comment-wrap{
+    min-height: 200px;
+}
+#comment-textarea{
+    resize: none;
+}
+#btn-sub-comment{
+    line-height: 58px;
+    width: 100%;
+    font-size: 26px;
+}
+.comment-item{
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px 0;
+}
+.comment-login-tips{
+    padding: 15px;
+}
